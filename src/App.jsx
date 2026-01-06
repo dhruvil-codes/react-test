@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1>Follow @bydhruvil on X</h1>
-      <p>This is a subheading</p>
+      <p>For AI and Gen AI Content</p>
     </>
   )
 }
